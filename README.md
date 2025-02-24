@@ -33,8 +33,6 @@
 - **Payroll Management**: Employee salaries, contracts, and tax calculations.  
 - **Modular System**: Components for dynamic configuration of financial settings.  
 
-📂 **GitHub Repository (Coming Soon!)**  
-
 ---
 
 ### 📂 **Featured Projects**  
